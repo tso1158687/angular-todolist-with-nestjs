@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+//font-awsome
+// $fa-font-path: "../node_modules/font-awesome/fonts";
+// @import "../node_modules/font-awesome/scss/font-awesome.scss";
+// font
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+// @import url(//fonts.googleapis.com/earlyaccess/hannari.css);
+* {
+//   font-family: 'Hannari', serif;
+  font-family: 'Noto Sans TC';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
